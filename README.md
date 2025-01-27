@@ -14,6 +14,8 @@ Provide a brief description of your app. Highlight its purpose, functionality, a
 
 | ![Screenshot 1](./Images/Screenshot_1.jpg) | ![Screenshot 2](./Images/Screenshot_2.jpg) |![Screenshot 3](./Images/Screenshot_3.jpg) |
 |:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
+| ![Screenshot 1](./Images/Screenshot_4.jpg) | ![Screenshot 2](./Images/Screenshot_5.jpg) |![Screenshot 3](./Images/Screenshot_6.jpg) |
+|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
 
 #### Download:
 [Download APK](./APKs/app1.apk)
