@@ -13,9 +13,9 @@ A collection of mobile apps built with React Native, showcasing features, design
 Provide a brief description of your app. Highlight its purpose, functionality, and key features.
 
 #### Screenshots:
-| ![Screenshot 1](./Images/app1_screenshot1.png) | ![Screenshot 2](./Images/app1_screenshot2.png) |
-|:-----------------------------------------------:|:-----------------------------------------------:|
-| Screenshot Caption 1                            | Screenshot Caption 2                            |
+| ![Screenshot 1](./Images/app1_screenshot1.png) | ![Screenshot 2](./Images/app1_screenshot2.png) |![Screenshot 3](./Images/app1_screenshot2.png) |
+|:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
+| Screenshot Caption 1                            | Screenshot Caption 2                            |Screenshot Caption 3                            |
 
 #### Download:
 [Download APK](./APKs/app1.apk)
