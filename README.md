@@ -9,10 +9,10 @@ A collection of mobile apps built with React Native, showcasing features, design
 ### PocketPath - Expense Tracker App 📊💰
 ![Banner](./Images/PocketPath/banner.jpg)
 
-#### Description:
+### Description:
 PocketPath is a React Native application designed to help users efficiently track their expenses, manage budgets, and save money. With a clean and user-friendly interface, PocketPath empowers users to log their transactions, analyze spending patterns, and make informed financial decisions.
 
-## Features
+#### Features
 
 - 💵 **Add Transactions:** Quickly log income and expenses with categories and descriptions.
 - 📊 **Visual Insights:** View expenses through interactive pie charts, bar graphs, and line charts.
